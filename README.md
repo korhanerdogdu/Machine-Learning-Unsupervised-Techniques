@@ -1,5 +1,5 @@
 # Unsupervised Machine Learning  
-*(Erasmus @ Johannes Kepler University Linz, Austria — Spring 2024-2025)*
+*(Erasmus @ Johannes Kepler University Linz, Austria — Spring 2024)*
 
 This repository contains my homework assignments for the **Unsupervised Machine Learning** course I completed during my Erasmus exchange at **JKU Linz**.  
 The course provided both theoretical depth and hands-on experience in unsupervised learning techniques, covering probabilistic models, clustering, dimensionality reduction, latent variable models, and graphical models.  
